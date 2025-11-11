@@ -32,13 +32,6 @@ To add new dependencies, install them with `pip` and update `requirements.txt` u
    - Explore cross-team comparisons (heatmaps, stacked bars)
    - Summarize AI helpfulness perceptions
 
-The notebook intentionally keeps raw identifiers (e.g. `Email`, `Name`). Remove or anonymize them before sharing externally.
-
-## Next Steps
-- Export cleaned datasets into `data/`
-- Polish presentation-ready charts and move finals into `reports/`
-- Consider interactive dashboards (Plotly, Voila) for stakeholders
-
 ## Notes
 - The repository assumes Python 3.9+.
 - For reproducibility, commit only derived artifacts that are required for reports.
