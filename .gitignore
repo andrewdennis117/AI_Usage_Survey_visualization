@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+!responses.csv
+!responses-0.csv
+
+# Logs and temporary files
+*.log
+.DS_Store
+
+# Jupyter
+.jupyter/
+
+# VSCode / editor settings
+.vscode/
